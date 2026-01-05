@@ -1,0 +1,6 @@
+HTL,Vbr,censored,|Vbr|,Electrode,Scan_min_V,Scan_max_V
+MeO2PACz,-1.5,False,1.5,Ag,-10.0,2.0
+NiOx,-6.559999943,False,6.559999943,Ag,-10.0,2.0
+PEDOT,-5.0,False,5.0,Ag,-10.0,2.0
+polyTPD,-10.0,True,10.0,Ag,-10.0,2.0
+PTAA,-10.0,True,10.0,Ag,-10.0,2.0
