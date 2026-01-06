@@ -1,0 +1,6 @@
+HTL,SourceFile,Vbr,Electrode
+MeO2PACz,MeO2PACz_Ag_scan_10V.csv,-1.5,Ag
+NiOx,NiOx_Ag_scan_10V.csv,-3.940000057,Ag
+PEDOT,PEDOT_Ag_scan_10V.csv,-3.440000057,Ag
+PTAA,PTAA_Ag_scan_10V.csv,-10.0,Ag
+polyTPD,polyTPD_Ag_scan_10V.csv,-10.0,Ag
