@@ -1,0 +1,6 @@
+HTL,SourceFile,Vbr_knee,Vbr_20mA
+MeO2PACz,..\raw_csv\type3_breakdown_Au\MeO2PACz_Au_scan_20V.csv,-3.639499903,-2.7203816738128275
+NiOx,..\raw_csv\type3_breakdown_Au\NiOx_Au_scan_20V.csv,-5.299499989,-4.538829346965563
+PEDOT,..\raw_csv\type3_breakdown_Au\PEDOT_Au_scan_20V.csv,-10.0,-4.320927254041523
+PTAA,..\raw_csv\type3_breakdown_Au\PTAA_Au_scan_20V.csv,-20.0,-15.498513686074363
+polyTPD,..\raw_csv\type3_breakdown_Au\PolyTPD_Au_scan_20V.csv,-13.5,-11.542339999069121

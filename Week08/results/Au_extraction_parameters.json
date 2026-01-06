@@ -1,0 +1,15 @@
+{
+  "extract_vbr_knee": {
+    "vmin": -0.2,
+    "baseline_window": [
+      -1.2,
+      -0.4
+    ],
+    "slope_factor": 5,
+    "max_logJ": 2.5
+  },
+  "extract_vbr_20mA": {
+    "J_target": 20.0,
+    "definition": "crossing from below to above as V decreases"
+  }
+}
