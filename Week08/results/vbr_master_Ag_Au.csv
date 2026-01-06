@@ -1,0 +1,11 @@
+HTL,SourceFile,Vbr_knee,Vbr_20mA,Electrode
+MeO2PACz,MeO2PACz_Ag_scan_10V.csv,-1.5,-0.7819245857038992,Ag
+NiOx,NiOx_Ag_scan_10V.csv,-3.940000057,-2.7068669137965893,Ag
+PEDOT,PEDOT_Ag_scan_10V.csv,-3.440000057,-2.700465104836742,Ag
+polyTPD,polyTPD_Ag_scan_10V.csv,-10.0,-6.621024429232861,Ag
+PTAA,PTAA_Ag_scan_10V.csv,-10.0,-8.443883974548864,Ag
+MeO2PACz,..\raw_csv\type3_breakdown_Au\MeO2PACz_Au_scan_20V.csv,-3.639499903,-2.7203816738128275,
+NiOx,..\raw_csv\type3_breakdown_Au\NiOx_Au_scan_20V.csv,-5.299499989,-4.538829346965563,
+PEDOT,..\raw_csv\type3_breakdown_Au\PEDOT_Au_scan_20V.csv,-10.0,-4.320927254041523,
+PTAA,..\raw_csv\type3_breakdown_Au\PTAA_Au_scan_20V.csv,-20.0,-15.498513686074364,
+polyTPD,..\raw_csv\type3_breakdown_Au\PolyTPD_Au_scan_20V.csv,-13.5,-11.54233999906912,
