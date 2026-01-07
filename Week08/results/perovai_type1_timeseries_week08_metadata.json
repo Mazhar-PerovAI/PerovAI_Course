@@ -1,0 +1,39 @@
+{
+  "dataset": "perovai_type1_timeseries_week08",
+  "description": "Temporal reverse-bias stress data for MeO2PACz/Ag devices",
+  "week": 8,
+  "type": "Type1",
+  "HTL": "MeO2PACz",
+  "electrode": "Ag",
+  "stress_modes": [
+    "constant",
+    "stepstress"
+  ],
+  "stress_voltages": [
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.5
+  ],
+  "stress_durations_s": [
+    60,
+    3600,
+    54000
+  ],
+  "columns": [
+    "MeasuredVoltage",
+    "MeasuredCurrent",
+    "StressMode",
+    "StressVoltage",
+    "StressDuration_s",
+    "HTL",
+    "Electrode",
+    "Type",
+    "Week",
+    "SourceFile",
+    "TimeIndex",
+    "AbsCurrent",
+    "LogAbsCurrent"
+  ]
+}
