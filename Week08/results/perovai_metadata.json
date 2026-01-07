@@ -1,0 +1,19 @@
+{
+  "description": "Reverse-bias breakdown voltage dataset for perovskite solar cells",
+  "rows": "One row per device JV curve",
+  "columns": {
+    "HTL": "Hole transport layer material",
+    "Electrode": "Top electrode material (Ag or Au)",
+    "Vbr_knee": "Reverse-bias breakdown voltage from knee of log(|J|)-V curve (V)",
+    "Vbr_20mA": "Reverse-bias voltage where |J| crosses 20 mA/cm^2 (V)"
+  },
+  "units": {
+    "Vbr_knee": "V",
+    "Vbr_20mA": "V"
+  },
+  "notes": [
+    "Negative voltages indicate reverse bias",
+    "More negative Vbr indicates higher stability",
+    "Same extraction code used for Ag and Au"
+  ]
+}
