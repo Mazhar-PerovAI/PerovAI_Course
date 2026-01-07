@@ -1,0 +1,35 @@
+{
+  "dataset": "perovai_type5_statistics_week08",
+  "description": "Vbr/Vrb statistics by HTL and electrode (Ag/Au), Week08",
+  "week": 8,
+  "type": "Type5",
+  "columns": [
+    "Vbr",
+    "HTL",
+    "Electrode",
+    "SourceFile",
+    "Type",
+    "Week",
+    "DatasetRole"
+  ],
+  "n_rows": 263,
+  "HTLs": [
+    "MeO-2PACz",
+    "NiOx",
+    "PEDOT:PSS",
+    "PTAA",
+    "Poly-TPD"
+  ],
+  "electrodes": [
+    "Ag",
+    "Au"
+  ],
+  "source_files": [
+    "Vbr_stats_Ag.csv",
+    "Vbr_stats_Au.csv"
+  ],
+  "units": {
+    "Vbr": "V",
+    "HTL": "text"
+  }
+}
