@@ -1,0 +1,38 @@
+{
+  "dataset": "perovai_type4_thickness_week08",
+  "description": "Breakdown voltage vs HTL thickness (scaling), Week08",
+  "week": 8,
+  "type": "Type4",
+  "columns": [
+    "Vbr",
+    "thickness",
+    "HTL",
+    "Electrode",
+    "SourceFile",
+    "thickness_nm",
+    "Type",
+    "Week",
+    "DatasetRole"
+  ],
+  "HTLs": [
+    "PTAA",
+    "Poly-TPD"
+  ],
+  "electrodes": [
+    "Au"
+  ],
+  "thickness_nm": [
+    16.0,
+    18.0,
+    35.0,
+    50.0
+  ],
+  "source_files": [
+    "PTAA_Au_thickness_Vbr.csv",
+    "PolyTPD_Au_thickness_Vbr.csv"
+  ],
+  "units": {
+    "Vbr": "V",
+    "thickness_nm": "nm"
+  }
+}
