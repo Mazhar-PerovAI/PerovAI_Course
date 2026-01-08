@@ -1,0 +1,16 @@
+{
+  "project": "PerovAI",
+  "domain": "Perovskite Solar Cells",
+  "architecture": "PIN",
+  "bandgap_eV": 1.67,
+  "perovskite_composition": "Cs0.22FA0.78Pb(I0.85Br0.15)3",
+  "additive": {
+    "name": "MAPbCl3",
+    "amount": "3 mol%"
+  },
+  "fabrication": {
+    "perovskite_deposition": "spin coating"
+  },
+  "notes": "Wide-bandgap PIN devices; reverse-bias behavior/stability focus.",
+  "created_utc": "2026-01-08T00:50:10.686488Z"
+}

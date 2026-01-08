@@ -1,0 +1,13 @@
+{
+  "topic": "Reverse-bias behavior in PIN PSCs",
+  "key_claims": [
+    "Thicker conjugated-polymer HTLs increase reverse-breakdown robustness (more negative Vrb).",
+    "Electrochemically stable back electrodes improve Vrb and reduce reverse-bias degradation.",
+    "Mitigation should consider ITO planarization (avoid perovskite touching ITO), blocking electron injection, and stable electrodes."
+  ],
+  "observed_benchmark": {
+    "Vrb_record_V": -15,
+    "note": "Record-scale reverse breakdown reported for PSCs (comparable to Si)."
+  },
+  "created_utc": "2026-01-08T00:51:01.250482Z"
+}

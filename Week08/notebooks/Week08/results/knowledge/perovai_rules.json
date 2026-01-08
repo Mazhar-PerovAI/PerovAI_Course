@@ -1,0 +1,40 @@
+[
+  {
+    "name": "thickness_helps_vrb",
+    "if": {
+      "parameter": "HTL_thickness_nm",
+      "op": ">=",
+      "value": 35
+    },
+    "then": {
+      "tag": "benefit:high_Vrb"
+    },
+    "explanation": "Thicker conjugated-polymer HTL tends to improve reverse-breakdown robustness."
+  },
+  {
+    "name": "thin_htl_risk",
+    "if": {
+      "parameter": "HTL_thickness_nm",
+      "op": "<",
+      "value": 25
+    },
+    "then": {
+      "tag": "risk:low_Vrb"
+    },
+    "explanation": "Thin HTL tends to increase reverse-breakdown risk."
+  },
+  {
+    "name": "stable_electrode_benefit",
+    "if": {
+      "parameter": "Electrode",
+      "op": "in",
+      "value": [
+        "Au"
+      ]
+    },
+    "then": {
+      "tag": "benefit:electrode_stability"
+    },
+    "explanation": "Electrochemically stable electrodes reduce reverse-bias degradation risk."
+  }
+]
