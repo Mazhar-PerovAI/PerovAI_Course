@@ -1,0 +1,6 @@
+{
+  "module": "Reverse-Bias Stability Advisor",
+  "version": "v1.0",
+  "scope": "PIN, ~1.67 eV, Ag/Au, Week08 data",
+  "locked_on": "2026-01-08T06:17:14.214284Z"
+}
